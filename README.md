@@ -1,5 +1,6 @@
 
 Weather App 🌦️
+
 A simple Flutter app that displays the current weather for a city entered by the user. The app integrates with the OpenWeatherMap API to provide real-time weather details like temperature, weather description, and an appropriate weather icon.
  
 Features ✨
