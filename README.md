@@ -22,13 +22,14 @@ Instructions to Run the App 🚀
 Prerequisites
 Install Flutter on your machine.
 Obtain an API key from OpenWeatherMap.
+
 Steps to Run the App =>
 
 1.Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/weather-app.git  
+git clone https://github.com/SheetalKhakal/weather-app.git  
 
 2.Navigate to the project directory:
 
